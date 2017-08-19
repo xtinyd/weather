@@ -1,0 +1,10 @@
+<RCC version="1.0">
+    <qresource prefix="images">
+        <file alias="day_shower.png">./images/shower2.png</file>
+        <file alias="night_shower.png">./images/shower2_night.png</file>
+        <file alias="day_cloudy.png">./images/cloudy3.png</file>
+        <file alias="night_cloudy.png">./images/cloudy3_night.png</file>
+        <file alias="night_sunny.png">./images/sunny_night.png</file>
+        <file alias="day_sunny.png">./images/sunny.png</file>
+    </qresource>
+</RCC>
