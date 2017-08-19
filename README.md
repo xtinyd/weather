@@ -1,6 +1,7 @@
 今天我们做一个基于Python3 + PyQt5的一个天气预报，先来看一下效果图：
 
 ![](http://upload-images.jianshu.io/upload_images/4667452-1075b698d883af32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 整体界面比较简陋，但是这里我们主要把功能实现就行了。
 ## 工具准备：
 - Python3.x
